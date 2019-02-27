@@ -1,0 +1,12 @@
+#poweredBy{
+	background-color:whitesmoke ;
+	padding: 1em 0em 1em 0em;
+	border-radius: 0.5em;
+}
+#poweredBy:hover{
+	background-color: #fff ;
+}
+.hrtag{
+   border-top:1px solid ;
+	border-color: #1b6d85;
+}

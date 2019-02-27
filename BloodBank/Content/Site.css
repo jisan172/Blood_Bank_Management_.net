@@ -1,0 +1,264 @@
+body
+{
+    font-size: .85em;
+    font-family: "Trebuchet MS", Verdana, Helvetica, Sans-Serif;
+    color: #232323;
+    background-color: #fff;
+}
+
+header,
+footer,
+nav,
+section {
+    display: block;
+}
+
+/* Styles for basic forms
+-----------------------------------------------------------*/
+
+fieldset 
+{
+    border:1px solid #ddd;
+    padding:0 1.4em 1.4em 1.4em;
+    margin:0 0 1.5em 0;
+}
+
+legend 
+{
+    font-size:1.2em;
+    font-weight: bold;
+}
+
+textarea 
+{
+    min-height: 75px;
+}
+
+.editor-label 
+{
+    margin: 1em 0 0 0;
+}
+
+.editor-field 
+{
+    margin:0.5em 0 0 0;
+}
+
+
+/* Styles for validation helpers
+-----------------------------------------------------------*/
+.field-validation-error
+{
+    color: #ff0000;
+}
+
+.field-validation-valid
+{
+    display: none;
+}
+
+.input-validation-error
+{
+    border: 1px solid #ff0000;
+    background-color: #ffeeee;
+}
+
+.validation-summary-errors
+{
+    font-weight: bold;
+    color: #ff0000;
+}
+
+.validation-summary-valid
+{
+    display: none;
+}
+body{
+	padding: 0;
+	margin: 0;
+}
+#color
+{
+    background:black;
+}
+/*.wrapper{
+	width: 1000px;
+	min-height: 1300px;
+	background: gray;
+	margin: 0 auto;
+	overflow: hidden;
+}
+header{
+	width: 1000px;
+	min-height: 150px;
+	background: #678887;
+	position: relative;
+	
+	
+}
+header .logo img
+{
+    width:175px;
+    height:150px;
+    float:left;
+}
+header .topmenu{
+	width: 200px;
+	min-height: 35px;
+	background: #8a8a5c;
+	float: left;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+header .topmenu ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+header .topmenu ul li
+{
+    display: block;
+	float: left;
+	padding:12px 12px;
+}
+header .topmenu ul li a
+{
+    text-decoration:none;
+    color:#fff;
+    display:block;
+    font-size:20px;
+    text-align:center;
+}
+header .topmenu ul li a:hover
+{
+    background-color: olive;
+}
+header .slogan
+{   
+	width: 825px;
+	min-height: 150px;
+	background: #794394;
+	float: left;
+}*/
+header h1
+{
+    color: Maroon;
+}
+/*  header .slogan marquee
+{
+    font-size:25px;
+    color: Silver;
+    margin-left:400px;
+    margin-right:150px;
+}
+header .menubar ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+header .menubar ul li
+{
+    display: block;
+	float: left;
+	padding: 10px 12px 10px 26px;
+}
+header .menubar ul li a
+{
+    text-decoration:none;
+    color:#fff;
+    display:block;
+    font-size:20px;
+    text-align:center;
+}
+header .menubar ul li a:hover
+{
+    background-color: Gray;
+}
+header .menubar{
+	width: 1000px;
+	min-height: 50px;
+	background: #aaaa55;
+	clear: both;
+}
+.container .sidebar{
+	width: 175px;
+	min-height: 1050px;
+	background: #002;
+	float: left;
+	overflow:hidden;
+}
+.container .content{
+	width: 825px;
+	min-height: 1050px;
+	background: gray;
+	float: left;
+}
+
+#footer{
+	
+	background: black;
+	color:white;
+	    
+}*/
+.text-box single-line {
+	width: 500px;
+	padding: 10px;
+	font-size: 16px;
+	border: 1px solid #ddd;
+	color: #999;
+}
+.list-box tri-state {
+	width: 223px;
+	padding: 5px;
+	font-size: 16px;
+	border: 1px solid #ddd;
+	color: #999;
+}
+
+footer #i ul li
+{
+    
+    margin:10px;
+    
+    font-size:24px;
+}
+footer #i ul li a
+{
+    width:60px;
+    
+    padding:5px 0;
+    
+    
+}
+/*footr #i ul li:hover:
+{
+    transform:translateY(-8px);
+    box-shadow:0 10px 10px rgb(0,0,0,.5);
+}
+
+footer #i ul li:nth-child(1)
+{
+    
+   background:#3b5998;
+}
+footer #i ul li:nth-child(2)
+{
+    background:#00aced;
+}
+footer #i ul li:nth-child(3)
+{
+   background:#bb0000;
+}*/
+#h
+{
+    text-align: center;
+	font-size: 50px;
+	color: #999;
+	margin-bottom: 30px;
+}
+#wel
+{
+    
+    color:white;
+}
